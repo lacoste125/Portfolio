@@ -40,7 +40,8 @@ Cześć, jestem Mariusz i jestem testerem:) W zawodzie pracuję od 2016 roku. Te
 
 ## Grupy wiedzy do których należę
 
-* [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Gildia Testerów](https://www.facebook.com/GildiaTesterow/)
 
 ## Blogi które śledzę
 
