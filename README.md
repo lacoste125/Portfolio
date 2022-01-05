@@ -13,6 +13,7 @@ Cześć, jestem Mariusz i jestem testerem:) W zawodzie pracuję od 2016 roku. Te
 * Burp Suite
 * InteliJ IDEA
 * Selenium IDE
+* MobaXterm
 
 ## Tech Stack
 
