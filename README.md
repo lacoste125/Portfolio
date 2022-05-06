@@ -43,12 +43,12 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 
 ## Książki które czytam
 
-* 2020 - Radosław Smilgin - "Zawód Tester"
-* 2020 - Danuta Mendrala, Marcin Szeliga - Praktyczny kurs SQL
-* 2021 - Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB"
-* (w trakcie) - Łukasz Sosna - Linux - Komendy i polecenia
-* (w kolejce) - Beata Błaszczyk - English 4 IT
-* (w kolejce) - Robert C.Martin - Czysty kod
+* 2020 - [Radosław Smilgin - "Zawód Tester"](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
+* 2020 - [Danuta Mendrala, Marcin Szeliga - Praktyczny kurs SQL](https://lubimyczytac.pl/ksiazka/275438/praktyczny-kurs-sql-wydanie-iii)
+* 2021 - [Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB"](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
+* (w trakcie) - [Łukasz Sosna - Linux - Komendy i polecenia](https://lubimyczytac.pl/ksiazka/4864383/linux-komendy-i-polecenia-wydanie-v)
+* (w kolejce) - [Beata Błaszczyk - English 4 IT](https://lubimyczytac.pl/ksiazka/4510114/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko)
+* (w kolejce) - [Robert C.Martin - Czysty kod](https://lubimyczytac.pl/ksiazka/83492/czysty-kod-podrecznik-dobrego-programisty)
 
 ## Grupy wiedzy do których należę
 
