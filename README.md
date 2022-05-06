@@ -1,7 +1,7 @@
 # Portfolio
 
 ## O mnie
-Cześć, jestem Mariusz i jestem testerem:) W zawodzie pracuję od 2016 roku. Testuję zarówno frontend jak i backend. Ostatnie dwa lata spędziłem w zespole Scrum. Jestem liderem testów gdzie "spinam" testerską pracę trzech zespołów testowych. Moim ulubionym obszarem jest testowanie API. Od 12/2021 pracuję jako tester automatyzujący. Oczywiście piszę testy API. Używam do tego Cucumber --> Java --> REST-Assured --> JUnit. Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy testerskiej i umiejętności technicznych.
+Cześć, jestem Mariusz i jestem testerem:) W zawodzie pracuję od 2016 roku. Testuję zarówno frontend jak i backend. Ostatnie dwa lata spędziłem w zespole Scrum. Byłem liderem testów gdzie "spinałem" testerską pracę trzech zespołów testowych. Moim ulubionym obszarem jest testowanie API. Od 12/2021 pracuję jako tester automatyzujący.  Używam do tego Cucumber --> Java --> REST-Assured/Selenium --> JUnit. Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy testerskiej i umiejętności technicznych.
 
 ## Narzędzia:
 
@@ -71,3 +71,7 @@ Cześć, jestem Mariusz i jestem testerem:) W zawodzie pracuję od 2016 roku. Te
 
 * Automatyzacja regresji wewnętrznej aplikacji sprzedażowej - Selenium
 * Automatyzacja regresji API na szynie danych (Mule ESB) - REST-Assured - Procesy sprzedażowe
+* Aplikacja do sterowania mockami na środowiskach testowych.
+* Symulacja operacji wykonywanych przez użytkownika na stronie do oglądania telewizji internetowej.
+
+
