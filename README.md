@@ -26,18 +26,23 @@ Cześć, jestem Mariusz i jestem testerem:) W zawodzie pracuję od 2016 roku. Te
 
 ## Kursy które skończyłem
 
-* Selenium WebDriver z podstawami programowania JAVA
-* Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB
-* Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja
-* Postman - automatyzacja testów funkcjonalnych serwisów REST API
-* Cucumber: Implementing Behavior Driven Development (BDD)
-* Automatyzacja testów API: REST Assured w Java od podstaw
+* 2017 - Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB
+* 2018 - Selenium WebDriver + JAVA (TestArmy)
+* 2019 - Wstęp do Agile (Sii)
+* 2020 - Cucumber: Implementing Behavior Driven Development (NobleProg)
+* 2020 - Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja (Udemy)
+* 2021 - Postman - automatyzacja testów funkcjonalnych serwisów REST API (Udemy)
+* 2021 - Automatyzacja testów API: REST Assured w Java od podstaw (Udemy)
+* 2022 - Selenium w Javie (Testelka)
 
 ## Książki które czytam
 
-* Radosław Smilgin - "Zawód Tester"
-* Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB"
-* Danuta Mendrala, Marcin Szeliga - Praktyczny kurs SQL
+* 2020 - Radosław Smilgin - "Zawód Tester"
+* 2020 - Danuta Mendrala, Marcin Szeliga - Praktyczny kurs SQL
+* 2021 - Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB"
+* (w trakcie) - Łukasz Sosna - Linux - Komendy i polecenia
+* (w kolejce) - Beata Błaszczyk - English 4 IT
+* (w kolejce) - Robert C.Martin - Czysty kod
 
 ## Grupy wiedzy do których należę
 
