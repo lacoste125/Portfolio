@@ -16,15 +16,19 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 * InteliJ IDEA
 * Selenium IDE
 * MobaXterm
+* Confluence
+* Jira
+* Zephyr
+* Bitbucket
 
 ## Tech Stack
 
 * Bazy danych: MySQL, Oracle Database, PL/SQL,
 * Języki programowania: Java (Test Automation)
-* Testy: JUnit, Postman, Rest Assured, Selenium, Webservices, XML, JSON, REST
-* Systemy kontroli wersji: Bitbucket, Git
+* Testy: JUnit, Rest Assured, Selenium, Webservices, XML, JSON, REST
+* Systemy kontroli wersji: Git
 * Continuous Integration: Jenkins
-* Inne narzędzia: Confluence, JIRA, Maven, Node.js, Newman
+* Inne narzędzia: Node.js, Newman
 
 ## Kursy które skończyłem
 
@@ -55,7 +59,6 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 
 * [Automation Step By Step](https://www.youtube.com/c/AutomationStepByStep)
 * [Testelka](https://testelka.pl/blog/)
-
 
 ## Projekty jako tester manualny
 
