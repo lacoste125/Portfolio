@@ -71,7 +71,7 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 ## Projekty jako tester automatyzujący
 
 * Automatyzacja regresji wewnętrznej aplikacji sprzedażowej - Selenium
-* Automatyzacja regresji API na szynie danych (Mule ESB) - REST-Assured - Procesy sprzedażowe
+* Automatyzacja regresji API na szynie danych (Mule ESB) - REST-Assured - Procesy sprzedażowe i rejestracja
 * Aplikacja do sterowania mockami na środowiskach testowych.
 * Symulacja operacji wykonywanych przez użytkownika na stronie do oglądania telewizji internetowej.
 
