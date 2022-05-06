@@ -20,7 +20,7 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 
 * Bazy danych: MySQL, Oracle Database, PL/SQL,
 * Języki programowania: Java (Test Automation)
-* Testy: JUnit, Postman, Rest Assured, Selenium(basic), Webservices, XML, JSON, REST
+* Testy: JUnit, Postman, Rest Assured, Selenium, Webservices, XML, JSON, REST
 * Systemy kontroli wersji: Bitbucket, Git
 * Continuous Integration: Jenkins
 * Inne narzędzia: Confluence, JIRA, Maven, Node.js, Newman
