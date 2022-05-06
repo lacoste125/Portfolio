@@ -11,6 +11,7 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 * Swagger UI
 * Toad for Oracle
 * SQL Developer
+* SQL Server Management Studio
 * Burp Suite
 * InteliJ IDEA
 * Selenium IDE
