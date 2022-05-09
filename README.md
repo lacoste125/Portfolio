@@ -24,7 +24,7 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 ## Tech Stack
 
 * Bazy danych: MySQL, Oracle Database, PL/SQL,
-* Języki programowania: Java (Test Automation)
+* Języki programowania: Java (Test Automation), C# (Basic)
 * Testy: JUnit, Rest Assured, Selenium, Allure, Cucumber, Gherkin, Webservices, XML, JSON, REST
 * Systemy kontroli wersji: Git
 * Continuous Integration: Jenkins
