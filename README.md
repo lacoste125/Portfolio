@@ -32,7 +32,7 @@ Lubię swoją pracę, lubię nowe rzeczy. Moim celem jest rozwijanie wiedzy test
 
 ## Kursy które skończyłem
 
-* 2017 - Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB
+* 2017 - Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB (Comarch)
 * 2018 - Selenium WebDriver + JAVA (TestArmy)
 * 2019 - Wstęp do Agile (Sii)
 * 2020 - Cucumber: Implementing Behavior Driven Development (NobleProg)
